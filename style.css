@@ -4,7 +4,7 @@
 .tutorial li{
   height: 30px;
   list-style: square;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid rgb(235, 229, 229);
 }
 
 .chapters{
