@@ -12,16 +12,14 @@
   padding-right: 4%;
 }
 .tutorial li.chapter-heading{
- 
   height: 50px;
   padding-left: 10px;
   padding-top: 10px;
-  border: 1px solid black;
-  border-bottom: 0px;
+ 
 }
 a{
   color:black;
-  text-decoration: none;
+  
 }
 .tutorial-content{
   text-align: justify;
